@@ -8,7 +8,6 @@ import ToggleCharacter from '@/components/ToggleCharacter.vue';
 
 <template> 
   <ToggleCharacter />
-  <OptionsCard />
   <OptionsCardV2 />
 </template>
     
