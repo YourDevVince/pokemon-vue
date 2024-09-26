@@ -74,7 +74,7 @@ header {
 
 .btn-red {
    color: #fff;
-   background-color: #cc0000;
+   background-color: #cc0001;
    font-weight: bold;
    border: 0px;
    border-radius: 4px;
