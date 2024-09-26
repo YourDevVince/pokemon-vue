@@ -1,5 +1,4 @@
 <script setup>
-import OptionsCard from '@/components/OptionsCard.vue';
 import OptionsCardV2 from '@/components/OptionsCardV2.vue';
 import ToggleCharacter from '@/components/ToggleCharacter.vue';
 
@@ -8,7 +7,6 @@ import ToggleCharacter from '@/components/ToggleCharacter.vue';
 
 <template> 
   <ToggleCharacter />
-  <OptionsCard />
   <OptionsCardV2 />
 </template>
     
