@@ -18,7 +18,7 @@
 }
 
 .bold-wht {
-  color: white;
+  color: rgb(243, 243, 243);
   font-weight: bold;
 }
 span {
